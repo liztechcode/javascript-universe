@@ -1,4 +1,4 @@
-# JavaScript Universee 🌌
+# JavaScript Universe 🌌
 
 Bienvenido a JavaScript Universe, un repositorio dedicado a explorar y documentar el vasto mundo de JavaScript.
 
